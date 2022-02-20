@@ -1,5 +1,5 @@
 # Base image
-FROM python:3-alpine
+FROM python:3.11.0a5-alpine
 
 # Labels and Credits
 LABEL \
